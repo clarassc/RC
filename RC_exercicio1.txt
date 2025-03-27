@@ -1,0 +1,7 @@
+Exercício 1: 
+
+1. PAN - Há uma ligação entre os dois dispositivos.
+2. LAN - Todos os computadores estão interligados no mesmo router.
+3. CAN - Todos os edifícios estão conectados na mesma rede.
+4. LAN - Os dois equipamentos estão interligados por um cabo.
+5. PAN - Há uma ligação entre os dois dispositivos.
