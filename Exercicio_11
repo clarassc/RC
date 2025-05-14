@@ -1,0 +1,23 @@
+Liga segmentos da mesma rede
+Bridge: Sim
+Switch: Sim
+Router: Não
+
+Encaminha por endereço MAC
+Bridge: Sim
+Switch: Sim
+Router: Sim
+
+Encaminha por endereço IP
+Bridge: Não
+Switch: Não
+Router: Sim
+
+Acede à internet
+Bridge: Não
+Switch:
+Router:
+
+Bridge:
+Switch:
+Router:
