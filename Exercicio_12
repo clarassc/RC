@@ -1,6 +1,6 @@
 Interliga redes
-Gateway: Sim
-Router: Sim
+Gateway: Sim, protocolos diferentes
+Router: Sim, protocolos com o mesmo IP
 
 Traduz protocolos
 Gateway:  Sim
